@@ -1,7 +1,27 @@
+.container {
+margin-top:80px;
+}
+
+.logo {
+margin-left: 90px;
+}
+
+.searche {
+  margin-right:90px;
+}
+
+.pp {
+  border-radius: 50px;
+}
+
+.border-white {
+  border: solid 2px white;
+}
 
 .navbarbg {
   height: 55px;
   background-color: white;
+  border-bottom: 1px solid rgb(0 0 -2 / 0.08);
 }
 
 input.searche {
@@ -9,13 +29,14 @@ input.searche {
   max-width: 500px;
   background-color: #eef3f8;
   border: 0;
+ 
 }
 
 input.searche::placeholder {
   font-size: 14px;
   color: gray;
-  background-image: url(/bootstraplinkedinclone/assets/search-solid.svg);
-  background-repeat: no-repeat;
+  background-image: url(/assets/search-solid.svg);
+  background-repeat: no-repeat, repeat;
   background-size: 7%;
 }
 
