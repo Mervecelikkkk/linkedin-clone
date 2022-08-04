@@ -3,11 +3,21 @@ margin-top:80px;
 }
 
 .logo {
-margin-left: 90px;
+margin-left: 80px;
 }
 
 .searche {
   margin-right:90px;
+}
+
+.sticky {
+margin-top: 4rem;
+position: sticky;
+overflow: visible;
+}
+
+.txt-center {
+text-align: center;
 }
 
 .pp {
