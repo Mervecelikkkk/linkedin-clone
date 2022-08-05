@@ -2,7 +2,8 @@
 👩‍💻 LinkedIn clone to improve my skills
 
 ![linkedin1](https://user-images.githubusercontent.com/51165242/183219717-4c301fbb-3803-4a0f-b4a0-86bd770e1cfc.png)
-![linkedin2](https://user-images.githubusercontent.com/51165242/183219726-0cee6194-a2fd-440d-9732-18e4ccb7324d.png)
+
+![linkedin2](https://user-images.githubusercontent.com/51165242/183220310-1e603a04-138f-432a-8deb-c1232fc4bd32.png)
 
 ## Installation
 Clone the project.
