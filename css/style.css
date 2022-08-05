@@ -58,9 +58,9 @@ font-size: 2.4rem
   color: #5f5f5f;
 }
 
-.sticky-top, .position-sticky {
- top:4rem;
- overflow: visible;
+.sticky-top, .position-sticky  {
+ top:4rem !important;
+ overflow: visible !important;
 }
 
 .view {
